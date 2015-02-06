@@ -1,0 +1,27 @@
+#banner {
+  background: url("../images/background.jpg");
+  background-size: cover;
+  height: 750px;
+}
+
+.title {
+  color : white;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top: 200px;
+  top : 30px;
+  left : 0px;
+  width: 100%;
+}
+
+#features {
+  background-color: #70dbff;
+  width:100%;
+  color:white;
+  padding-bottom:60px;
+}
+
+.card{
+  padding-left: 10px;
+  text-align: center;
+}

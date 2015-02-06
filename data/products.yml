@@ -1,4 +1,12 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- title: Natural writing
+  image: paper.svg
+  description: Keep on writing with a normal pen on a normal notepad
+- title: Sync.copy
+  image: computer.svg
+  description: Stylus instantaneously copy your text on your computer in realtime.
+- title: Analytics
+  image: analytics.svg
+  description: Get feedbacks on the way you write.
+- title: Storing your text
+  image: data.svg
+  description: Everything line written with your stylus.

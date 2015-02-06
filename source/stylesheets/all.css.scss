@@ -12,3 +12,35 @@
 @import "components/*";
 @import "pages/*";
 @import "vendor/*";
+
+@import url("banner.css");
+@import url("footer.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #141414;
+}
+
+#search_form {
+  padding-top : 100px;
+  padding-bottom : 100px;
+  margin: 0 auto;
+  width: 500px;
+  text-align : center
+}
+
+#form-group {
+  display: inline-block ;
+}
+
+.padded {
+padding-top: 8em;
+padding-bottom: 8em;
+font-family: 'Open Sans', sans-serif;
+color: #141414;
+}
+.text-center {
+text-align: center;
+}
+
+
